@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.services:storage:1.4.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d831527f5b5339547e1cb2e895e6d826/transformed/storage-1.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1f51b0c30f2b734eb0816d50451f595b/transformed/storage-1.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e0754a4640ac89c80a8732be4397c230/transformed/storage-1.4.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e0754a4640ac89c80a8732be4397c230/transformed/storage-1.4.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e0754a4640ac89c80a8732be4397c230/transformed/storage-1.4.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.services/storage/1.4.2/edb6438b0e7e21c66b22184eebdb13cd5167161a/storage-1.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.services/storage/1.4.2/7653e58ad020a74392900229f15971ffb69d57ea/storage-1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
